@@ -1,0 +1,22 @@
+{
+	"name": "meetup2json",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"dependencies": {
+		"bluebird": "^2.3.5",
+		"co": "^3.1.0",
+		"co-fs": "^1.2.0",
+		"co-gather": "0.0.1",
+		"cogent": "^1.0.0",
+		"nunjucks": "^1.1.0",
+		"thunkify-wrap": "^1.0.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
